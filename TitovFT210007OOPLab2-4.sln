@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitovFT210007OOPLab2-4", "TitovFT210007OOPLab2-4\TitovFT210007OOPLab2-4.csproj", "{436762A0-9B25-4B25-AE60-149149DB2164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigures", "..\GeometricFigures\GeometricFigures\GeometricFigures.csproj", "{13DE1351-7D16-4F87-BCB4-57EB5D078C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436762A0-9B25-4B25-AE60-149149DB2164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436762A0-9B25-4B25-AE60-149149DB2164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436762A0-9B25-4B25-AE60-149149DB2164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436762A0-9B25-4B25-AE60-149149DB2164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DE1351-7D16-4F87-BCB4-57EB5D078C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DE1351-7D16-4F87-BCB4-57EB5D078C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DE1351-7D16-4F87-BCB4-57EB5D078C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DE1351-7D16-4F87-BCB4-57EB5D078C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C972F0A-63AB-444C-9100-965D998D943C}
+	EndGlobalSection
+EndGlobal
